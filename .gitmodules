@@ -1,0 +1,3 @@
+[submodule "penpa-edit"]
+	path = penpa-edit
+	url = https://github.com/rjrudman/penpa-edit.git
